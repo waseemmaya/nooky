@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waseemmaya.github.io/nooky/sitemap.xml
